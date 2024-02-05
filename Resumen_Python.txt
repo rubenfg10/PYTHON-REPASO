@@ -1,2 +1,3 @@
 ********* INICIO DE LA CARPETA DE MI CURSO EN PYTHON ***********
 
+Este es la primera prueba para iniciar mi curso de python 
