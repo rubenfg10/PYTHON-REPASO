@@ -1,5 +1,5 @@
-miVarible = False 
-print (miVarible) ### Bien 
+##miVarible = False 
+###print (miVarible) ### Bien 
 
-miVarible=1 > 2
-print(miVarible) ### Bien 
+##miVarible=1 > 2
+##print(miVarible) ### Bien 

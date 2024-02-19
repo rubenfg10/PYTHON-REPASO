@@ -1,3 +1,3 @@
-migrupofavorito= "Aerosmith"
-print("mi grupo favorito es : " + migrupofavorito) ### Bien 
+###migrupofavorito= "Aerosmith"
+###print("mi grupo favorito es : " + migrupofavorito) ### Bien 
 

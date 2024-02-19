@@ -1,13 +1,13 @@
-miVarible= False
-print(miVarible)
+##miVarible= False
+###print(miVarible)
 
-miVarible = 3 > 2
-print(miVarible)
+###miVarible = 3 > 2
+###print(miVarible)
 
-miVarible
+###miVarible
 
-print("el resultado fue verdadero")
+##print("el resultado fue verdadero")
 
 
 
-print("el resultado fue falso")
+##print("el resultado fue falso")
