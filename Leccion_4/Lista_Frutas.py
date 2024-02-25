@@ -1,1 +1,2 @@
-frutas = ('naranja','platano'),
+frutas = ('naranja','platano')
+print(frutas) ## Corregir 
