@@ -5,7 +5,7 @@
   ##     print('ejecutando ciclo while')
 
 ###else:
-   ###  print('fin del ciclo whie')
+   ###  print('fin del ciclo whie') ### Bien 
 
 
 
